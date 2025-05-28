@@ -1,0 +1,742 @@
+{
+  "blocks": [
+    {
+      "text": "TIC INVESTMENT",
+      "translated_text": "TIC 投资",
+      "bounding_box": [46, 99, 80, 583],
+      "background_color": "#1A2E40"
+    },
+    {
+      "text": "FACTSHEET 2024",
+      "translated_text": "概况介绍 2024",
+      "bounding_box": [85, 99, 121, 605],
+      "background_color": "#1A2E40"
+    },
+    {
+      "text": "66,278,276",
+      "translated_text": "66,278,276",
+      "bounding_box": [189, 206, 205, 308],
+      "background_color": "#1A2E40"
+    },
+    {
+      "text": "Total",
+      "translated_text": "总计",
+      "bounding_box": [209, 206, 218, 264],
+      "background_color": "#1A2E40"
+    },
+    {
+      "text": "Population",
+      "translated_text": "人口",
+      "bounding_box": [220, 206, 231, 284],
+      "background_color": "#1A2E40"
+    },
+    {
+      "text": "5.4%",
+      "translated_text": "5.4%",
+      "bounding_box": [189, 508, 205, 579],
+      "background_color": "#1A2E40"
+    },
+    {
+      "text": "GDP",
+      "translated_text": "国内生产总值",
+      "bounding_box": [209, 508, 218, 571],
+      "background_color": "#1A2E40"
+    },
+    {
+      "text": "Growth Rate",
+      "translated_text": "增长率",
+      "bounding_box": [220, 508, 231, 603],
+      "background_color": "#1A2E40"
+    },
+    {
+      "text": "3.1%",
+      "translated_text": "3.1%",
+      "bounding_box": [189, 792, 205, 852],
+      "background_color": "#1A2E40"
+    },
+    {
+      "text": "Inflation",
+      "translated_text": "通货膨胀",
+      "bounding_box": [209, 792, 218, 854],
+      "background_color": "#1A2E40"
+    },
+    {
+      "text": "Rate",
+      "translated_text": "率",
+      "bounding_box": [220, 792, 231, 841],
+      "background_color": "#1A2E40"
+    },
+    {
+      "text": "EXCHANGE RATES TANZANIAN SHILLING (TSH) VS US DOLLAR (USD)",
+      "translated_text": "坦桑尼亚先令 (TSH) 对美元 (USD) 汇率",
+      "bounding_box": [271, 101, 288, 895],
+      "background_color": "#1A2E40"
+    },
+    {
+      "text": "Buying Rate",
+      "translated_text": "买入价",
+      "bounding_box": [314, 358, 333, 518],
+      "background_color": "#1A2E40"
+    },
+    {
+      "text": "2,643.12",
+      "translated_text": "2,643.12",
+      "bounding_box": [338, 363, 367, 515],
+      "background_color": "#1A2E40"
+    },
+    {
+      "text": "Selling Rate",
+      "translated_text": "卖出价",
+      "bounding_box": [314, 709, 333, 868],
+      "background_color": "#1A2E40"
+    },
+    {
+      "text": "2,668.42",
+      "translated_text": "2,668.42",
+      "bounding_box": [338, 711, 367, 865],
+      "background_color": "#1A2E40"
+    },
+    {
+      "text": "REGIONAL DISTRIBUTION IN 2024",
+      "translated_text": "2024年区域分布",
+      "bounding_box": [402, 279, 419, 717],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "TOTAL 901 Projects 212,293 Jobs $9,312.69M Capital",
+      "translated_text": "总计 901 个项目 212,293 个工作岗位 93.1269亿美元资本",
+      "bounding_box": [431, 196, 449, 819],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Tabora",
+      "translated_text": "塔波拉",
+      "bounding_box": [466, 336, 475, 392],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "1 Project",
+      "translated_text": "1个项目",
+      "bounding_box": [476, 329, 485, 392],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "86 Jobs",
+      "translated_text": "86个工作岗位",
+      "bounding_box": [486, 346, 495, 392],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Mwanza",
+      "translated_text": "姆万扎",
+      "bounding_box": [466, 429, 475, 486],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "37 Projects",
+      "translated_text": "37个项目",
+      "bounding_box": [476, 429, 485, 503],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "4,395 Jobs",
+      "translated_text": "4,395个工作岗位",
+      "bounding_box": [486, 429, 495, 503],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$1.31M Capital",
+      "translated_text": "131万美元资本",
+      "bounding_box": [496, 296, 505, 392],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$581.11 M Capital",
+      "translated_text": "5.8111亿美元资本",
+      "bounding_box": [496, 429, 505, 550],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Kagera",
+      "translated_text": "卡盖拉",
+      "bounding_box": [516, 246, 525, 297],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "5 Projects",
+      "translated_text": "5个项目",
+      "bounding_box": [526, 230, 535, 297],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "1,391 Jobs",
+      "translated_text": "1,391个工作岗位",
+      "bounding_box": [536, 226, 545, 297],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$16.52M Capital",
+      "translated_text": "1652万美元资本",
+      "bounding_box": [546, 187, 555, 297],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Geita",
+      "translated_text": "盖塔",
+      "bounding_box": [560, 186, 569, 233],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "18 Projects",
+      "translated_text": "18个项目",
+      "bounding_box": [570, 159, 579, 233],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "969 Jobs",
+      "translated_text": "969个工作岗位",
+      "bounding_box": [580, 177, 589, 233],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$68.51M Capital",
+      "translated_text": "6851万美元资本",
+      "bounding_box": [590, 123, 599, 233],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Kigoma",
+      "translated_text": "基戈马",
+      "bounding_box": [604, 166, 613, 233],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "8 Projects",
+      "translated_text": "8个项目",
+      "bounding_box": [614, 177, 623, 233],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "774 Jobs",
+      "translated_text": "774个工作岗位",
+      "bounding_box": [624, 177, 633, 233],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$155.62M Capital",
+      "translated_text": "1.5562亿美元资本",
+      "bounding_box": [634, 115, 643, 233],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Shinyanga",
+      "translated_text": "欣延加",
+      "bounding_box": [648, 161, 657, 233],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "16 Projects",
+      "translated_text": "16个项目",
+      "bounding_box": [658, 159, 667, 233],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "1,121 Jobs",
+      "translated_text": "1,121个工作岗位",
+      "bounding_box": [668, 162, 677, 233],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$415.21M Capital",
+      "translated_text": "4.1521亿美元资本",
+      "bounding_box": [678, 116, 687, 233],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Katavi",
+      "translated_text": "卡塔维",
+      "bounding_box": [692, 167, 701, 233],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "5 Projects",
+      "translated_text": "5个项目",
+      "bounding_box": [702, 163, 711, 233],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Projects",
+      "translated_text": "项目",
+      "bounding_box": [712, 174, 711, 233],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "1,746 Jobs",
+      "translated_text": "1,746个工作岗位",
+      "bounding_box": [712, 165, 721, 233],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$114.22M Capital",
+      "translated_text": "1.1422亿美元资本",
+      "bounding_box": [722, 118, 731, 233],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Singida",
+      "translated_text": "辛吉达",
+      "bounding_box": [736, 113, 745, 159],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "6 Projects",
+      "translated_text": "6个项目",
+      "bounding_box": [746, 97, 755, 160],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "235 Jobs",
+      "translated_text": "235个工作岗位",
+      "bounding_box": [756, 106, 765, 160],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$8.38M Capital",
+      "translated_text": "838万美元资本",
+      "bounding_box": [766, 63, 775, 160],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Rukwa",
+      "translated_text": "鲁夸",
+      "bounding_box": [780, 148, 789, 196],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "4 Projects",
+      "translated_text": "4个项目",
+      "bounding_box": [790, 132, 799, 195],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "147 Jobs",
+      "translated_text": "147个工作岗位",
+      "bounding_box": [800, 142, 809, 195],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$3.19M Capital",
+      "translated_text": "319万美元资本",
+      "bounding_box": [810, 98, 819, 195],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Songwe",
+      "translated_text": "松圭",
+      "bounding_box": [824, 180, 833, 243],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "5 Projects",
+      "translated_text": "5个项目",
+      "bounding_box": [834, 177, 843, 243],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "400 Jobs",
+      "translated_text": "400个工作岗位",
+      "bounding_box": [844, 189, 853, 243],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$16.00M Capital",
+      "translated_text": "1600万美元资本",
+      "bounding_box": [854, 133, 863, 243],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Iringa",
+      "translated_text": "伊林加",
+      "bounding_box": [868, 150, 877, 196],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "11 Projects",
+      "translated_text": "11个项目",
+      "bounding_box": [878, 149, 887, 217],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "1,019 Jobs",
+      "translated_text": "1,019个工作岗位",
+      "bounding_box": [888, 151, 897, 217],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$35.82M Capital",
+      "translated_text": "3582万美元资本",
+      "bounding_box": [898, 108, 907, 217],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Mbeya",
+      "translated_text": "姆贝亚",
+      "bounding_box": [902, 267, 911, 315],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Njombe",
+      "translated_text": "恩琼贝",
+      "bounding_box": [902, 326, 911, 384],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "20 Projects",
+      "translated_text": "20个项目",
+      "bounding_box": [912, 239, 921, 315],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "11 Projects",
+      "translated_text": "11个项目",
+      "bounding_box": [912, 326, 921, 403],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "2,442 Jobs",
+      "translated_text": "2,442个工作岗位",
+      "bounding_box": [922, 235, 931, 315],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "2,276 Jobs",
+      "translated_text": "2,276个工作岗位",
+      "bounding_box": [922, 326, 931, 403],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$59.22M Capital",
+      "translated_text": "5922万美元资本",
+      "bounding_box": [932, 202, 941, 315],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$109.40M Capital",
+      "translated_text": "1.094亿美元资本",
+      "bounding_box": [932, 326, 941, 443],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Lindi",
+      "translated_text": "林迪",
+      "bounding_box": [862, 394, 871, 461],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Arusha",
+      "translated_text": "阿鲁沙",
+      "bounding_box": [540, 516, 549, 587],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "64 Projects",
+      "translated_text": "64个项目",
+      "bounding_box": [550, 516, 559, 587],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "6,657 Jobs",
+      "translated_text": "6,657个工作岗位",
+      "bounding_box": [560, 516, 569, 587],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Si",
+      "translated_text": "Si",
+      "bounding_box": [466, 599, 475, 659],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "5 Projects",
+      "translated_text": "5个项目",
+      "bounding_box": [476, 599, 485, 659],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "485 Jobs",
+      "translated_text": "485个工作岗位",
+      "bounding_box": [486, 599, 495, 659],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$127.38M Capital",
+      "translated_text": "1.2738亿美元资本",
+      "bounding_box": [496, 599, 505, 713],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$213.06M Capital",
+      "translated_text": "2.1306亿美元资本",
+      "bounding_box": [570, 516, 579, 634],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "13 Projects",
+      "translated_text": "13个项目",
+      "bounding_box": [872, 394, 881, 461],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "726 Jobs",
+      "translated_text": "726个工作岗位",
+      "bounding_box": [882, 394, 891, 454],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$136.08M Capital",
+      "translated_text": "1.3608亿美元资本",
+      "bounding_box": [892, 394, 901, 511],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Ruvuma",
+      "translated_text": "鲁伍马",
+      "bounding_box": [902, 531, 911, 600],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "11 Projects",
+      "translated_text": "11个项目",
+      "bounding_box": [912, 531, 921, 600],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "5,735 Jobs",
+      "translated_text": "5,735个工作岗位",
+      "bounding_box": [922, 531, 931, 600],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$597.64M Capital",
+      "translated_text": "5.9764亿美元资本",
+      "bounding_box": [932, 531, 941, 651],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Mara",
+      "translated_text": "马拉",
+      "bounding_box": [530, 648, 539, 713],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "8 Projects",
+      "translated_text": "8个项目",
+      "bounding_box": [540, 648, 549, 710],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "555 Jobs",
+      "translated_text": "555个工作岗位",
+      "bounding_box": [550, 648, 559, 710],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$43.34M Capital",
+      "translated_text": "4334万美元资本",
+      "bounding_box": [560, 648, 569, 750],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Manyara",
+      "translated_text": "曼雅拉",
+      "bounding_box": [544, 804, 553, 869],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "9 Projects",
+      "translated_text": "9个项目",
+      "bounding_box": [554, 804, 563, 867],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "783 Jobs",
+      "translated_text": "783个工作岗位",
+      "bounding_box": [564, 804, 573, 863],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$38.70M Capital",
+      "translated_text": "3870万美元资本",
+      "bounding_box": [574, 804, 583, 913],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Kilimanjaro",
+      "translated_text": "乞力马扎罗",
+      "bounding_box": [588, 767, 597, 851],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "18 Projects",
+      "translated_text": "18个项目",
+      "bounding_box": [598, 767, 607, 838],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "1,657 Jobs",
+      "translated_text": "1,657个工作岗位",
+      "bounding_box": [608, 767, 617, 834],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$63.95M Capital",
+      "translated_text": "6395万美元资本",
+      "bounding_box": [618, 767, 627, 876],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Tanga",
+      "translated_text": "坦噶",
+      "bounding_box": [632, 767, 641, 819],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "23 Projects",
+      "translated_text": "23个项目",
+      "bounding_box": [642, 767, 651, 838],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "1,315 Jobs",
+      "translated_text": "1,315个工作岗位",
+      "bounding_box": [652, 767, 661, 838],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$137.66 M Capital",
+      "translated_text": "1.3766亿美元资本",
+      "bounding_box": [662, 767, 671, 885],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Dar es Salaam",
+      "translated_text": "达累斯萨拉姆",
+      "bounding_box": [676, 767, 685, 887],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "356 Projects",
+      "translated_text": "356个项目",
+      "bounding_box": [686, 767, 695, 842],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "107,962 Jobs",
+      "translated_text": "107,962个工作岗位",
+      "bounding_box": [696, 746, 705, 833],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$4,440.97M Capital",
+      "translated_text": "44.4097亿美元资本",
+      "bounding_box": [706, 746, 715, 881],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Pwani",
+      "translated_text": "普瓦尼",
+      "bounding_box": [720, 746, 729, 877],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "166 Projects",
+      "translated_text": "166个项目",
+      "bounding_box": [730, 746, 739, 829],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "49,784 Jobs",
+      "translated_text": "49,784个工作岗位",
+      "bounding_box": [740, 746, 749, 829],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$1,243.87M Capital",
+      "translated_text": "12.4387亿美元资本",
+      "bounding_box": [750, 746, 759, 871],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Dodoma",
+      "translated_text": "多多马",
+      "bounding_box": [764, 755, 773, 885],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "47 Projects",
+      "translated_text": "47个项目",
+      "bounding_box": [774, 755, 783, 830],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "6,540 Jobs",
+      "translated_text": "6,540个工作岗位",
+      "bounding_box": [784, 755, 793, 830],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$182.36M Capital",
+      "translated_text": "1.8236亿美元资本",
+      "bounding_box": [794, 755, 803, 869],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Mtwara",
+      "translated_text": "姆特瓦拉",
+      "bounding_box": [808, 757, 817, 876],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "12 Projects",
+      "translated_text": "12个项目",
+      "bounding_box": [818, 757, 827, 829],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "1,537 Jobs",
+      "translated_text": "1,537个工作岗位",
+      "bounding_box": [828, 757, 837, 829],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$57.01M Capital",
+      "translated_text": "5701万美元资本",
+      "bounding_box": [838, 757, 847, 868],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "Morogoro",
+      "translated_text": "莫罗戈罗",
+      "bounding_box": [852, 659, 861, 739],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "22 Projects",
+      "translated_text": "22个项目",
+      "bounding_box": [862, 659, 871, 739],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "11,556 Jobs",
+      "translated_text": "11,556个工作岗位",
+      "bounding_box": [872, 659, 881, 739],
+      "background_color": "#1F1F1F"
+    },
+    {
+      "text": "$446.17M Capital",
+      "translated_text": "4.4617亿美元资本",
+      "bounding_box": [882, 659, 891, 778],
+      "background_color": "#1F1F1F"
+    }
+  ]
+}
