@@ -227,7 +227,7 @@ object JsonSchemaValidator {
     fun validateAndLog(jsonString: String, stage: String, expectedType: String): Boolean {
         val formatResult = validateJsonFormat(jsonString)
         if (!formatResult.isValid) {
-            logger.error("${stage}阶段JSON格式验证失败: ${formatResult.errors}")
+            logger.error("${stage}阶段JSON格式验证失败: ${formatResult.errors}。内容：${jsonString}")
             return false
         }
 

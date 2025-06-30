@@ -44,7 +44,8 @@ class JsonProcessingTest {
                 )
             ),
             totalEstimatedWords = 1000,
-            readingTime = "3-5分钟"
+            readingTime = "3-5分钟",
+            logicalFlow = "引言 -> 主要章节 -> 结论",
         )
 
         // 序列化为JSON

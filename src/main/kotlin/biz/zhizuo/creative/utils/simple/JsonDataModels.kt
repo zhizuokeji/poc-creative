@@ -67,6 +67,8 @@ data class OutlineContent(
     val outline: OutlineStructure,
     val totalEstimatedWords: Int,
     val readingTime: String,
+    val logicalFlow: String,
+    val keyTransitions: List<String> = emptyList(),
 )
 
 /**

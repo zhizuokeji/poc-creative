@@ -77,7 +77,7 @@ class SimpleArticleCreator(
         val systemPrompt = promptLoader.loadPrompt("creative")
         val userInput = buildCreativeInput(originalIdea, themeKeyword)
 
-        return callAI(systemPrompt, userInput)
+        return callAI(systemPrompt, userInput).extractJson()
     }
 
     /**
@@ -87,7 +87,7 @@ class SimpleArticleCreator(
         logger.info("执行选题阶段")
 
         val systemPrompt = promptLoader.loadPrompt("topic")
-        return callAI(systemPrompt, expandedIdea)
+        return callAI(systemPrompt, expandedIdea).extractJson()
     }
 
     /**
@@ -97,7 +97,7 @@ class SimpleArticleCreator(
         logger.info("执行构思阶段")
 
         val systemPrompt = promptLoader.loadPrompt("outline")
-        val jsonOutput = callAI(systemPrompt, selectedTitle)
+        val jsonOutput = callAI(systemPrompt, selectedTitle).extractJson()
 
         // 验证JSON格式
         if (!JsonSchemaValidator.validateAndLog(jsonOutput, "构思", "outline")) {
@@ -117,7 +117,7 @@ class SimpleArticleCreator(
         logger.info("执行写作阶段")
 
         val systemPrompt = promptLoader.loadPrompt("writing")
-        val jsonOutput = callAI(systemPrompt, outlineJson)
+        val jsonOutput = callAI(systemPrompt, outlineJson).extractJson()
 
         // 验证JSON格式
         if (!JsonSchemaValidator.validateAndLog(jsonOutput, "写作", "article")) {
@@ -137,7 +137,7 @@ class SimpleArticleCreator(
         logger.info("执行优化阶段")
 
         val systemPrompt = promptLoader.loadPrompt("optimization")
-        val jsonOutput = callAI(systemPrompt, articleJson)
+        val jsonOutput = callAI(systemPrompt, articleJson).extractJson()
 
         // 验证JSON格式
         if (!JsonSchemaValidator.validateAndLog(jsonOutput, "优化", "article")) {
@@ -157,7 +157,7 @@ class SimpleArticleCreator(
         logger.info("执行配图规划阶段")
 
         val systemPrompt = promptLoader.loadPrompt("image_planning")
-        val jsonOutput = callAI(systemPrompt, articleJson)
+        val jsonOutput = callAI(systemPrompt, articleJson).extractJson()
 
         // 验证JSON格式
         if (!JsonSchemaValidator.validateAndLog(jsonOutput, "配图规划", "article")) {
@@ -413,4 +413,8 @@ class SimpleArticleCreator(
         }
         return "未命名文章_${System.currentTimeMillis()}"
     }
+}
+
+fun String.extractJson(): String {
+    return this.replace(Regex("""^.*?```json\n(.*)?```.*$""", RegexOption.DOT_MATCHES_ALL), "$1")
 }
